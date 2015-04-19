@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Gruntfile.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/controllers/stories_controller.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/controllers/story_controller.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/controllers/story_edit_controller.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/models/story_model.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/router.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/routes/application_route.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/routes/stories_route.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/store.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/templates/application.hbs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/templates/story.hbs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/templates/story_edit.hbs" charset="UTF-8" />
+  </component>
+</project>
